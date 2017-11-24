@@ -3,7 +3,7 @@
 ## Idenficicaciòn de prototipo UX de pàgina Youtube.
 
 
-![UX](IMG/IMG-UX.png "Partes UX de pagina Youtube");
+![UX](IMG/IMG-UX.png "Partes UX de pagina Youtube")
 
 1. Como parte del aprendizaje se creo un protitipado incluyendo figuras geometricas.
 	. Los cuadrados rojos son las secciones que estaran conteniendo botones e iconos con funcionalidad.
@@ -15,7 +15,7 @@
 
 ## Idenficicaciòn de prototipo UI de pàgina Youtube.
 
-![UI](IMG/IMG-UI.png "Partes UI de pagina Youtube");
+![UI](IMG/IMG-UI.png "Partes UI de pagina Youtube")
 
 1. Como parte del aprendizaje se creo un protitipado se incluye solo cuadrados bordeando cada uno de los iconos, imagenes y texto todos en color morado.
 	. Las partes marcadas son las mismas que en UX, la diferencia es que en UI, nos enfocaremos en los stylos.
